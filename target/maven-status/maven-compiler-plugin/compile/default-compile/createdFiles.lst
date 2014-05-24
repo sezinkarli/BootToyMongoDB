@@ -1,0 +1,7 @@
+main\BootQeyfi.class
+main\enums\Availability.class
+main\service\ProductService.class
+main\dao\ProductRepository.class
+main\model\Product.class
+main\dao\ProductRepositoryImpl.class
+main\dao\ProductRepositoryCustom.class
